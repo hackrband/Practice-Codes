@@ -6,6 +6,17 @@ This repository contains code from various personal programming projects. It ser
 
 - **Purpose:** Explore different programming concepts and languages.
 - **Contents:** Scripts, small projects, and coding exercises.
-- **Languages:** Multiple programming languages included.
 
 This repository is intended for personal learning and reference. Contributions are welcome if they align with the repository’s focus on practice and experimentation.
+
+# Credits
+
+This project is free to use, modify, copy, and redistribute.
+
+No credit or attribution is required.
+
+**Original creator:** Hackrband
+
+**© 2026 Hackrband**
+
+
